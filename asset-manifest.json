@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Newton-school-project-Todoist-clone/static/css/main.d12e45f9.chunk.css",
+    "main.js": "/Newton-school-project-Todoist-clone/static/js/main.b24ca35f.chunk.js",
+    "main.js.map": "/Newton-school-project-Todoist-clone/static/js/main.b24ca35f.chunk.js.map",
+    "runtime-main.js": "/Newton-school-project-Todoist-clone/static/js/runtime-main.612db429.js",
+    "runtime-main.js.map": "/Newton-school-project-Todoist-clone/static/js/runtime-main.612db429.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/Newton-school-project-Todoist-clone/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.255d49e5.chunk.js": "/Newton-school-project-Todoist-clone/static/js/2.255d49e5.chunk.js",
+    "static/js/2.255d49e5.chunk.js.map": "/Newton-school-project-Todoist-clone/static/js/2.255d49e5.chunk.js.map",
+    "index.html": "/Newton-school-project-Todoist-clone/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/Newton-school-project-Todoist-clone/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.d12e45f9.chunk.css.map": "/Newton-school-project-Todoist-clone/static/css/main.d12e45f9.chunk.css.map",
+    "static/js/2.255d49e5.chunk.js.LICENSE.txt": "/Newton-school-project-Todoist-clone/static/js/2.255d49e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612db429.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.255d49e5.chunk.js",
+    "static/css/main.d12e45f9.chunk.css",
+    "static/js/main.b24ca35f.chunk.js"
+  ]
+}
